@@ -28,11 +28,16 @@ Automated Feature Extraction
 
 - `Representation Learning: A Review and New Perspectives <https://arxiv.org/pdf/1206.5538.pdf>`_
 
+**2017**
+
+- `Feature Engineering for Predictive Modeling using Reinforcement Learning <https://arxiv.org/pdf/1709.07150.pdf>`_
+
 **2018**
 
 - `BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding <https://arxiv.org/pdf/1810.04805.pdf>`_
 - `Emergence of Invariance and Disentanglement in Deep Representations <https://www.jmlr.org/papers/volume19/17-646/17-646.pdf>`_
 - `Towards a Definition of Disentangled Representations <https://arxiv.org/pdf/1812.02230.pdf>`_
+- `Automating Feature Engineering in Supervised Learning <https://udayankhurana.com/wp-content/uploads/2018/07/FEbook-Chapter9.pdf>`_
 
 **2019**
 
