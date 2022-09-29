@@ -28,6 +28,10 @@ Automated Feature Extraction
 
 - `BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding <https://arxiv.org/pdf/1810.04805.pdf>`_
 
+**2019**
+
+- `ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks <https://arxiv.org/pdf/1908.02265.pdf>`_
+
 **2020**
 
 - `MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering <https://arxiv.org/pdf/2010.14095.pdf>`_
@@ -35,3 +39,4 @@ Automated Feature Extraction
 **2021**
 
 - `Self-Supervised Structured Representations for Deep Reinforcement Learning <https://openreview.net/pdf?id=lyzRAErG6Kv>`_
+- `HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units <https://arxiv.org/pdf/2106.07447.pdf>`_
