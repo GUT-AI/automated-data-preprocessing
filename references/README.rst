@@ -31,6 +31,7 @@ Automated Feature Extraction
 **2018**
 
 - `BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding <https://arxiv.org/pdf/1810.04805.pdf>`_
+- `Emergence of Invariance and Disentanglement in Deep Representations <https://www.jmlr.org/papers/volume19/17-646/17-646.pdf>`_
 
 **2019**
 
@@ -46,3 +47,5 @@ Automated Feature Extraction
 
 - `Self-Supervised Structured Representations for Deep Reinforcement Learning <https://openreview.net/pdf?id=lyzRAErG6Kv>`_
 - `HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units <https://arxiv.org/pdf/2106.07447.pdf>`_
+- `Benchmarks, Algorithms, and Metrics for Hierarchical Disentanglement <https://arxiv.org/pdf/2102.05185.pdf>`_
+
