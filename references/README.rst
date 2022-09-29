@@ -32,6 +32,7 @@ Automated Feature Extraction
 
 - `BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding <https://arxiv.org/pdf/1810.04805.pdf>`_
 - `Emergence of Invariance and Disentanglement in Deep Representations <https://www.jmlr.org/papers/volume19/17-646/17-646.pdf>`_
+- `Towards a Definition of Disentangled Representations <https://arxiv.org/pdf/1812.02230.pdf>`_
 
 **2019**
 
