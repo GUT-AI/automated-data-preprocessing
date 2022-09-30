@@ -58,4 +58,18 @@ Automated Feature Extraction
 Multimodal Learning
 -------------------
 
-- 
+**2018**
+
+- `Multimodal Machine Learning: A Survey and Taxonomy <https://arxiv.org/pdf/1705.09406.pdf>`_
+
+**2019**
+
+- ` <>`_
+- ` <>`_
+- ` <>`_
+
+**2021**
+
+- `Recent Advances and Trends in Multimodal Deep Learning: A Review <https://arxiv.org/pdf/2105.11087.pdf>`_
+- ` <>`_
+
