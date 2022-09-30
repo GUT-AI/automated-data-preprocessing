@@ -55,3 +55,7 @@ Automated Feature Extraction
 - `HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units <https://arxiv.org/pdf/2106.07447.pdf>`_
 - `Benchmarks, Algorithms, and Metrics for Hierarchical Disentanglement <https://arxiv.org/pdf/2102.05185.pdf>`_
 
+Multimodal Learning
+-------------------
+
+- 
