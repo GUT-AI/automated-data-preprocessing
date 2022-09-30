@@ -64,12 +64,16 @@ Multimodal Learning
 
 **2019**
 
-- ` <>`_
-- ` <>`_
-- ` <>`_
+- `Multimodal Representation Learning: Advances, Trends and Challenges <https://ieeexplore.ieee.org/document/8949228>`_
+- `Deep Multimodal Representation Learning: A Survey <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8715409>`_
 
 **2021**
 
 - `Recent Advances and Trends in Multimodal Deep Learning: A Review <https://arxiv.org/pdf/2105.11087.pdf>`_
-- ` <>`_
+- `Exploiting Multimodal Reinforcement Learning for Simultaneous Machine Translation <https://arxiv.org/pdf/2102.11387.pdf>`_
+- `Pretraining Representations for Data-Efficient Reinforcement Learning <https://arxiv.org/pdf/2106.04799.pdf>`_
+
+**2022**
+
+- `Multimodal Learning with Transformers: A Survey <https://arxiv.org/pdf/2206.06488.pdf>`_
 
