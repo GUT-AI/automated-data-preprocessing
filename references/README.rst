@@ -89,3 +89,7 @@ Self-Supervised Learning (for efficient RL Downstream Tasks)
 
 - `Exploiting Multimodal Reinforcement Learning for Simultaneous Machine Translation <https://arxiv.org/pdf/2102.11387.pdf>`_
 - `Pretraining Representations for Data-Efficient Reinforcement Learning <https://arxiv.org/pdf/2106.04799.pdf>`_
+
+**2022**
+
+- `Self-Supervised Structured Representations for Deep Reinforcement Learning <https://openreview.net/pdf?id=lyzRAErG6Kv>`_
