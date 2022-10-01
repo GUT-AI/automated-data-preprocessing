@@ -79,6 +79,12 @@ Multimodal Learning
 Self-Supervised Learning (for efficient RL Downstream Tasks)
 ------------------------------------------------------------
 
+**2019**
+
+- `SOLAR: Deep Structured Representations for Model-Based Reinforcement Learning <http://proceedings.mlr.press/v97/zhang19m/zhang19m.pdf>`_
+- `Task-Agnostic Dynamics Priors for Deep Reinforcement Learning <https://arxiv.org/pdf/1905.04819.pdf>`_
+- `Recall Traces: Backtracking Models for Efficient Reinforcement Learning <https://arxiv.org/pdf/1804.00379.pdf>`_
+
 **2021**
 
 - `Exploiting Multimodal Reinforcement Learning for Simultaneous Machine Translation <https://arxiv.org/pdf/2102.11387.pdf>`_
