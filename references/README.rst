@@ -77,3 +77,7 @@ Multimodal Learning
 
 - `Multimodal Learning with Transformers: A Survey <https://arxiv.org/pdf/2206.06488.pdf>`_
 
+Self-Supervised Learning (for efficient RL Downstream Tasks)
+------------------------------------------------------------
+
+-
