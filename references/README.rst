@@ -13,9 +13,10 @@ References
 
 |
 
+**Note:** Preprocessing (or Representation Learning) is often incorrectly referred to as "pretraining".
+
 See also `Awesome-AutoML-Papers#Automated Feature Engineering <https://github.com/hibayesian/awesome-automl-papers#automated-feature-engineering>`_. |br|
 See also `AutoML <https://github.com/GUT-AI/auto-ml/blob/master/references/README.rst>`_.
-
 
 Automated Feature Selection
 ---------------------------
@@ -54,6 +55,7 @@ Automated Feature Extraction
 - `Self-Supervised Structured Representations for Deep Reinforcement Learning <https://openreview.net/pdf?id=lyzRAErG6Kv>`_
 - `HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units <https://arxiv.org/pdf/2106.07447.pdf>`_
 - `Benchmarks, Algorithms, and Metrics for Hierarchical Disentanglement <https://arxiv.org/pdf/2102.05185.pdf>`_
+- `Self-Supervised Pretraining Improves Self-Supervised Pretraining <https://arxiv.org/pdf/2103.12718.pdf>`_
 
 Multimodal Learning
 -------------------
