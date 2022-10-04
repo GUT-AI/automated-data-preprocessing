@@ -60,6 +60,7 @@ Automated Feature Extraction
 - `Benchmarks, Algorithms, and Metrics for Hierarchical Disentanglement <https://arxiv.org/pdf/2102.05185.pdf>`_
 - `Self-Supervised Pretraining Improves Self-Supervised Pretraining <https://arxiv.org/pdf/2103.12718.pdf>`_
 - `Task-customized Self-supervised Pre-training with Scalable Dynamic Routing <https://arxiv.org/pdf/2205.13267.pdf>`_
+- `AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing <https://arxiv.org/pdf/2108.05542.pdf>`_
 
 **2022**
 
